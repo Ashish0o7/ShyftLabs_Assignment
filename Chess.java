@@ -4,9 +4,9 @@
 
 
 // So I've missed few important and complex details like checkmate detection etc
-// which makes it a fully chess game
 // Also I've not added initialized the board with all types of piece, as it was not asked
 // also missed logic for pawn promotion, as I quite don't know the logic of it
+
 
 import java.util.Scanner;
 
